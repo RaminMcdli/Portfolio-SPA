@@ -1,0 +1,80 @@
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  list-style: none;
+  cursor: pointer;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color:darkcyan;
+}
+
+.aboutUs {
+  padding: 30px;
+}
+
+.aboutUs h1 {
+  color:darkcyan;
+  text-align: center;
+}
+
+.aboutUs h3 {
+  text-align: center;
+}
+
+.general {
+  padding: 30px;
+}
+
+.general h1 {
+  color:darkcyan;
+  text-align: center;
+}
+
+.general h3 {
+  text-align: center;
+}
+
+.contact-us {
+  padding: 50px;
+}
+
+.contact-us h1 {
+  text-align: center;
+  color:darkcyan;
+}
+
+.contact-us h3 {
+  color:darkcyan;
+}
+
+.contacts-page {
+  display: flex;
+  justify-content: space-around;
+}
+
+.request {
+  text-align: center;
+}
+
+input {
+  width: 235px;
+}
+
+textarea {
+  margin-top: 5px;
+}
